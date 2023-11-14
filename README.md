@@ -6,7 +6,7 @@
   - [Bike Sales Analysis](https://github.com/LingouaTech/Bike-Sales-Dashboard)
 
 - <b>Power BI</b>
-  - [Data Career Survey](https://github.com/LingouaTech/Data-Career-Survey)
+  - [Data Career Survey Dashboard](https://github.com/LingouaTech/Data-Career-Survey)
 
 <h2>☁️ Cloud:</h2>
 
