@@ -25,6 +25,8 @@
 
 - <b>PowerShell</b>
   - [VWipe Disk Sanitization](https://github.com/LingouaTech/VWipe-Disk-Sanitization)
+  - [Active Directory Bulk User Creation](https://github.com/LingouaTech/Active-Directory-Bulk-User-Creation)
+
 
 
 <h2>🚫 Vulnerability Management:</h2>
