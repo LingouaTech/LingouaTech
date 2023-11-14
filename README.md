@@ -32,7 +32,7 @@
 <h2>🚫 Vulnerability Management:</h2>
 
 - <b>Azure Sentinel</b>
-  - [Azure Sentinel RDP (Brute Attack Monitor)](https://github.com/LingouaTech/Azure-Sentinel)
+  - [Azure Sentinel Geolocation RDP (Brute Attack Monitor)](https://github.com/LingouaTech/Azure-Sentinel)
 
 
 <h2> 🤳 Connect with me:</h2>
