@@ -3,12 +3,10 @@
 <h2>📊 Analytics:</h2>
 
 - <b>Excel</b>
-  - 
+  - [Bike Sales Analysis](https://github.com/LingouaTech/Bike-Sales-Dashboard)
 
 - <b>Power BI</b>
  
-  
-- <b>Power BI</b>
 
 <h2>☁️ Cloud:</h2>
 
