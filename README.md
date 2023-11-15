@@ -1,4 +1,4 @@
-<h1>Hi, I'm Van! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a> | <a href="https://www.linkedin.com/in/vanlingoua/">Cloud Architect</a>
+<h1>Hi, I'm Van! <br/><a href="https://github.com/joshmadakor1">Technical Professional</a>
 
 <h2>📊 Analytics:</h2>
 
